@@ -6,7 +6,7 @@
 ## Contáctame
 A medida que continúo mi viaje en el Developer Full Stack, siempre estoy buscando nuevos proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades y crecer tanto personal, como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 
-##Hobies
+## Hobies
 Play videogames...
 
 ## Habilidades
