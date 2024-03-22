@@ -6,10 +6,13 @@
 ## Contáctame
 A medida que continúo mi viaje en el Developer Full Stack, siempre estoy buscando nuevos proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades y crecer tanto personal, como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 
+
+## Hobbies
+- Dancing: ...
+
 ## Habilidades
 - Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías y..
 
 ## Tecnologías
 - Back-End: Competente en Java, aporto un sólido conocimiento del desarrollo del lado del servidor...
 - Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar...
-
