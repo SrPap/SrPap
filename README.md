@@ -6,8 +6,8 @@
 ## Contáctame
 A medida que continúo mi viaje en el Developer Full Stack, siempre estoy buscando nuevos proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades y crecer tanto personal, como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
 
-##Hobbies
-Dancing: ...
+##Hobies
+Play videogames...
 
 ## Habilidades
 - Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías y..
